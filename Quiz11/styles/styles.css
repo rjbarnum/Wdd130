@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+
+}
+h1 {
+    font-size: 15;
+}
+.box {
+    height: 5px;
+    width: 5px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+  }
+.black {
+    background-color: black;
+}
+h3 {
+    font-size: 500%;
+}
+p {
+    font-size: 50%;
+    width: 270px;
+}

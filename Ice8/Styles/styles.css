@@ -1,0 +1,13 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+    gap: 20px;
+}
+img{
+    grid-column: 1fr;
+    grid-rows: 2fr;
+    height: 200%;
+    4
+}
